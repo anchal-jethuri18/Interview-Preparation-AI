@@ -14,22 +14,22 @@
 
   Frontend
 
-    * React.js
+  * React.js
 
-    * HTML, CSS
+  * HTML, CSS
 
-    * Tailwind 
+  *  Tailwind 
 
   Backend
 
-    * Node.js
+  *  Node.js
 
-    * Express.js
+  * Express.js
 
  Database
 
-    * MongoDB 
+ *  MongoDB 
 
  AI
 
-   * Gemini API 
+* Gemini API 
