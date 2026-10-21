@@ -29,3 +29,66 @@ An AI-powered web app that generates personalized interview questions and answer
 ![Interview Questions 2](<Screenshot questions 2.png>)
 
  
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/anchal-jethuri18/Interview-Preparation-AI.git
+cd Interview-Preparation-AI
+```
+
+### 2. Set Up the Backend
+
+```bash
+cd backend
+npm install
+```
+
+Create a `.env` file inside the `backend` folder and add the required environment variables:
+
+```env
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+GEMINI_API_KEY=your_gemini_api_key
+PORT=8000
+```
+
+Replace the example values with your own credentials. Never upload your actual secrets to GitHub.
+
+Start the backend:
+
+```bash
+npm run dev
+```
+
+### 3. Set Up the Frontend
+
+Open a new terminal from the project root and run:
+
+```bash
+cd frontend/interview-prep-ai
+npm install
+```
+
+Create a frontend `.env` file if required by your application and configure the backend API URL using the environment variable name expected by your code.
+
+Start the frontend:
+
+```bash
+npm run dev
+```
+
+### 4. Open the Application
+
+Open the local URL displayed in your frontend terminal, usually:
+
+`http://localhost:5173`
+## 👩‍💻 Author
+
+Anchal Jethuri
+
+- GitHub: https://github.com/anchal-jethuri18
