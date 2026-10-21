@@ -2,7 +2,7 @@
 
 An AI-powered web app that generates personalized interview questions and answers based on role and experience.
 
-##⭐ Features
+## ⭐ Features
 
 - User authentication 
 - AI-generated questions and answers using the Gemini API
@@ -10,7 +10,7 @@ An AI-powered web app that generates personalized interview questions and answer
 - Expand questions for detailed explanations
 - Responsive UI built with Tailwind CSS
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
