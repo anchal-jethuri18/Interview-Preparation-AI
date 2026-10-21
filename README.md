@@ -11,23 +11,10 @@ An AI-powered web app that generates personalized interview questions and answer
 - Responsive UI built with Tailwind CSS
 
 🛠 Tech Stack
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **AI Integration:** Google Gemini API
+  
 
-  Frontend
-
-  * React.js
-
-  *  Tailwind CSS
-
-  Backend
-
-  *  Node.js
-
-  * Express.js
-
- Database
-
- *  MongoDB 
-
- AI
-
-* Gemini API 
+ 
