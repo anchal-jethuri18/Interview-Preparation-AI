@@ -17,6 +17,6 @@ An AI-powered web app that generates personalized interview questions and answer
 - **AI Integration:** Google Gemini API
   
 ## 📸 Screenshots
-![Home](Screenshot/home.png)
+![Home](Screenshot Home.png)
 ![Questions](Screenshot/questions1.png)
  
