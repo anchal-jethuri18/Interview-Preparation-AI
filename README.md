@@ -1,14 +1,14 @@
+# Interview Preparation AI
+
+An AI-powered web app that generates personalized interview questions and answers based on role and experience.
+
 ⭐ Features
 
-🔹 AI-generated interview questions
-
-🔹 Instant answer evaluation
-
-🔹 User-friendly dashboard
-
-🔹 Real-time feedback & suggestions
-
-🔹 Smooth UI and responsive design
+- User authentication 
+- AI-generated questions and answers using the Gemini API
+- Pin and save important questions
+- Expand questions for detailed explanations
+- Responsive UI built with Tailwind CSS
 
 🛠 Tech Stack
 
@@ -16,9 +16,7 @@
 
   * React.js
 
-  * HTML, CSS
-
-  *  Tailwind 
+  *  Tailwind CSS
 
   Backend
 
