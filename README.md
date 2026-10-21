@@ -18,7 +18,7 @@ An AI-powered web app that generates personalized interview questions and answer
   
 ## 📸 Screenshots
 
-![Home](Home.png)
-![Questions](questions1.png)
-![Questions](questions2.png)
+![Home](ScreenshotHome.png)
+![Questions](Screenshotquestions1.png)
+![Questions](Screenshotquestions2.png)
  
