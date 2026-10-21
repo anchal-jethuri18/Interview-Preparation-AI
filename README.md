@@ -16,9 +16,16 @@ An AI-powered web app that generates personalized interview questions and answer
 - **Database:** MongoDB
 - **AI Integration:** Google Gemini API
   
+
 ## 📸 Screenshots
 
-![Home](ScreenshotHome.png)
-![Questions](Screenshotquestions1.png)
-![Questions](Screenshotquestions2.png)
+### Home Page
+![Home Page](<Screenshot Home.png>)
+
+### Interview Questions - 1
+![Interview Questions 1](<Screenshot questions 1.png>)
+
+### Interview Questions - 2
+![Interview Questions 2](<Screenshot questions 2.png>)
+
  
